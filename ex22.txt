@@ -1,0 +1,50 @@
+Libraries:
+sys
+os.path
+
+
+Functions:
+print()
+float()
+raw_input("Prompt: ")
+
+len()
+
+exists()
+open() (modes: 'r', 'w', 'a')
+close()
+truncate()
+readline()
+write()
+
+
+Formatters:
+%s
+%d
+%r
+
+
+Characters:
++
+-
+*
+/
+%
+
+>
+<
+>=
+<=
+==
+
+\n
+\t
+\ (escape characters)
+
+" "
+"""
+
+
+Extras:
+Replaces formatters with values using % after the string
+Concatenate strings using +
